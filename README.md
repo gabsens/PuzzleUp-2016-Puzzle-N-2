@@ -1,5 +1,6 @@
 # PuzzleUp-2016-Puzzle-N-2
 Simulation of sampling without replacement for Puzzle N°2
+
 Link to the problem: http://www.puzzleup.com/2016/puzzle/?2
 
 
