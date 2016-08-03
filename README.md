@@ -1,4 +1,4 @@
-# PuzzleUp-2016-Puzzle-N-2
+# PuzzleUp 2016 Puzzle N°2
 Simulation of sampling without replacement for Puzzle N°2
 
 Link to the problem: http://www.puzzleup.com/2016/puzzle/?2
@@ -11,3 +11,5 @@ Link to the problem: http://www.puzzleup.com/2016/puzzle/?2
 `trials` is how often you repeat the experiment.
 
 `prob` is the simulated probability of getting at least 2 consecutive numbers among the sampled balls.
+
+The theoretical probability is **1 - Binomial[100 - k + 1, k]/Binomial[100, k]**
